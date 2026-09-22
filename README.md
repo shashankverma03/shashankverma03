@@ -14,9 +14,8 @@
 ## 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE (Data Science)** student at **NIET, Greater Noida** (CGPA: 8.20/10)
-- 🔭 Currently building: **CodeBlink** – real‑time code sharing platform
-- 🌱 Learning: **Node.js, REST APIs, advanced DSA, and scalable system design**
-- 🧠 Solved **385+ problems on LeetCode** – arrays, strings, linked lists, stacks, queues, trees
+- 🧠 Solved **385+ problems on LeetCode** — arrays, strings, linked lists, stacks, queues, trees
+- 🌱 Currently learning: **Node.js, REST APIs, advanced DSA, and scalable system design**
 - 💬 Ask me about: **C++, Python, JavaScript, React, Firebase, MySQL, MongoDB**
 - 📫 Reach me: **shashankverma1540@gmail.com**
 - ⚡ Fun fact: **I debug with ChatGPT, Claude & DeepSeek 😄**
@@ -58,6 +57,11 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
@@ -84,31 +88,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 CodeBlink – Real‑Time Code Sharing Platform
-`React` `Firebase` `Firestore` `HTML/CSS/JS`
-- Built a real‑time collaborative code sharing platform with React for a modular, component‑driven interface.
-- Integrated Firebase Firestore for real‑time sync and Firebase Authentication for secure sessions.
-- Designed a responsive, intuitive UI using HTML, CSS, and JavaScript.
-- 🔗 [GitHub Repo](https://github.com/YOUR_USERNAME/CodeBlink) • [Live Demo](https://your-demo-link.com)
-
-### 🔹 GFG NIET Student Chapter – Official Website
-`HTML` `CSS` `JavaScript` `Firebase`
-- Developed the official website for GeeksforGeeks Student Chapter at NIET (About, Events, Team, Contact).
-- Built dynamic events showcase and live chapter stats (50+ events, 560+ members, 5+ hackathons).
-- Responsive layout that boosted event sign‑ups.
-- 🔗 [GitHub Repo](https://github.com/YOUR_USERNAME/gfg-niet-website) • [Live Demo](https://your-demo-link.com)
-
-### 🔹 LinkShare – File & Image Sharing Platform
-`HTML` `CSS` `JavaScript` `PHP` `InfinityFree`
-- Web‑based file/image sharing platform with shareable links and QR codes.
-- Password‑protected file access using PHP for secure sharing.
-- Deployed and hosted on InfinityFree.
-- 🔗 [GitHub Repo](https://github.com/YOUR_USERNAME/LinkShare)
-
----
-
 ## 📜 Certifications
 
 - **AWS Cloud Architecture** – Amazon Web Services
@@ -119,16 +98,16 @@
 
 ## 🏅 Leadership & Activities
 
-- **Technical Workshop Organizer** – Conducted hands‑on web development workshops at NIET, training 30+ peers in HTML, CSS, and JavaScript.
-- **Peer Mentor** – Guided juniors in Python, DSA, and front‑end development.
-- **Hackathon Participant** – Collaborated in teams on real‑world tech solutions at college‑level hackathons.
+- **Technical Workshop Organizer** – Conducted hands-on web development workshops at NIET, training 30+ peers in HTML, CSS, and JavaScript.
+- **Peer Mentor** – Guided juniors in Python, DSA, and front-end development.
+- **Hackathon Participant** – Collaborated in teams on real-world tech solutions at college-level hackathons.
 
 ---
 
 ## 🧠 Competitive Programming
 
 - **LeetCode:** Solved **385+ problems** covering arrays, strings, linked lists, stacks, queues, and trees.
-- Consistently practicing algorithmic problem‑solving and complexity optimization.
+- Consistently practicing algorithmic problem-solving and complexity optimization.
 - 🔗 [LeetCode Profile](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
 ---
@@ -147,9 +126,6 @@
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
