@@ -64,51 +64,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashank's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Shashank's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
-
----
-
-## 📜 Certifications
-
-- **AWS Cloud Architecture** – Amazon Web Services
-- **Comprehensive Data Analytics Bundle** – Excel, SQL, Python, Power BI
-- **Python for Data Science** – NumPy, Pandas
-
----
-
-## 🏅 Leadership & Activities
-
-- **Technical Workshop Organizer** – Conducted hands-on web development workshops at NIET, training 30+ peers in HTML, CSS, and JavaScript.
-- **Peer Mentor** – Guided juniors in Python, DSA, and front-end development.
-- **Hackathon Participant** – Collaborated in teams on real-world tech solutions at college-level hackathons.
-
----
-
-## 🧠 Competitive Programming
-
-- **LeetCode:** Solved **385+ problems** covering arrays, strings, linked lists, stacks, queues, and trees.
-- Consistently practicing algorithmic problem-solving and complexity optimization.
-- 🔗 [LeetCode Profile](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
 ---
 
