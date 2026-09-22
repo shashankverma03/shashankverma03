@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Shashank Verma</h2>
+<h1 align="center">Hi 👋, I'm Shashank Verma</h1>
 <h3 align="center">🎓 Final-Year B.Tech CSE (Data Science) @ NIET</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shashankverma03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/shashankverma03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/YOUR_USERNAME">Shashank Verma</a> — Let's build something great together!
+  ⭐️ From <a href="https://github.com/shashankverma03">Shashank Verma</a> — Let's build something great together!
 </p>
