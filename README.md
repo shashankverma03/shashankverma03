@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Shashank Verma</h2>
-<h3 align="center">🎓 Final-Year B.Tech CSE (Data Science) @ NIET</h3>
+<h3 align="center"> Final-Year B.Tech CSE (Data Science) @ NIET</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Science+Student;Python+%7C+C%2B%2B+%7C+JavaScript;React+%2B+Firebase+Developer;450%2B+LeetCode+Problems+Solved;Building+Real-World+Projects" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Final-year **B.Tech CSE (Data Science)** student at **NIET, Greater Noida** (CGPA: 8.20/10)
 - 🧠 Solved **450+ problems on LeetCode** — arrays, strings, linked lists, stacks, queues, trees, graphs, dynamic programming, bit manipulation, SQL
@@ -17,10 +17,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -71,7 +72,7 @@
   <a href="https://github.com/shashankverma03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/shashankverma03" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
