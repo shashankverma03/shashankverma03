@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shashank Verma</h1>
-<h3 align="center">🎓 Final-Year B.Tech CSE (Data Science) @ NIET | 💻 Aspiring Software Engineer</h3>
+<h2 align="center">Hi, I'm Shashank Verma</h2>
+<h3 align="center">🎓 Final-Year B.Tech CSE (Data Science) @ NIET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Science+Student;Python+%7C+C%2B%2B+%7C+JavaScript;React+%2B+Firebase+Developer;385%2B+LeetCode+Problems+Solved;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Science+Student;Python+%7C+C%2B%2B+%7C+JavaScript;React+%2B+Firebase+Developer;450%2B+LeetCode+Problems+Solved;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 ## 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE (Data Science)** student at **NIET, Greater Noida** (CGPA: 8.20/10)
-- 🧠 Solved **385+ problems on LeetCode** — arrays, strings, linked lists, stacks, queues, trees
-- 🌱 Currently learning: **Node.js, REST APIs, advanced DSA, and scalable system design**
+- 🧠 Solved **450+ problems on LeetCode** — arrays, strings, linked lists, stacks, queues, trees, graphs, dynamic programming, bit manipulation, SQL
+- 🌱 Currently learning: **Advanced Data Structures, REST APIs, and scalable system design**
 - 💬 Ask me about: **C++, Python, JavaScript, React, Firebase, MySQL, MongoDB**
-- 📫 Reach me: **shashankverma1540@gmail.com**
-- ⚡ Fun fact: **I debug with ChatGPT, Claude & DeepSeek 😄**
+- 📫 Reach me: **shashankverma044@gmail.com**
 
 ---
 
@@ -64,18 +63,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:shashankverma1540@gmail.com">
+  <a href="mailto:shashankverma044@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
